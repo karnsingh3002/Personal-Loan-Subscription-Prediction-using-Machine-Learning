@@ -33,6 +33,3 @@ The model was implemented using IBM CPLEX.
 - Operations Research
 - Mixed Integer Linear Programming (MILP)
 
-## Report
-
-See `report/or_lab_group_8.pdf`
